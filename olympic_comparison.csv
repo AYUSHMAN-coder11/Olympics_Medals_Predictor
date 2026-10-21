@@ -1,0 +1,410 @@
+Year,NOC,Country,actual_medals,predicted_medals,difference
+2012,AFG,Afghanistan,1,0.8,-0.2
+2016,AFG,Afghanistan,0,0.8,0.8
+2012,ALB,Albania,0,0.0,0.0
+2016,ALB,Albania,0,0.1,0.1
+2012,ALG,Algeria,1,2.2,1.2
+2016,ALG,Algeria,2,0.9,-1.1
+2012,AND,Andorra,0,0.0,0.0
+2016,AND,Andorra,0,0.0,0.0
+2012,ANG,Angola,0,0.0,0.0
+2016,ANG,Angola,0,0.1,0.1
+2012,ANT,Antigua,0,0.0,0.0
+2016,ANT,Antigua,0,0.0,0.0
+2012,ARG,Argentina,4,5.9,1.9
+2016,ARG,Argentina,4,4.5,0.5
+2012,ARM,Armenia,3,5.4,2.4
+2016,ARM,Armenia,4,3.2,-0.8
+2012,ARU,Aruba,0,0.0,0.0
+2016,ARU,Aruba,0,0.0,0.0
+2012,ASA,American Samoa,0,0.0,0.0
+2016,ASA,American Samoa,0,0.0,0.0
+2012,AUS,Australia,35,44.0,9.0
+2016,AUS,Australia,29,33.0,4.0
+2012,AUT,Austria,0,3.7,3.7
+2016,AUT,Austria,1,1.2,0.2
+2012,AZE,Azerbaijan,10,6.8,-3.2
+2016,AZE,Azerbaijan,18,9.2,-8.8
+2012,BAH,Bahamas,1,1.9,0.9
+2016,BAH,Bahamas,2,1.0,-1.0
+2012,BAN,Bangladesh,0,0.0,0.0
+2016,BAN,Bangladesh,0,0.0,0.0
+2012,BAR,Barbados,0,0.1,0.1
+2016,BAR,Barbados,0,0.0,0.0
+2012,BDI,Burundi,0,0.0,0.0
+2016,BDI,Burundi,1,0.0,-1.0
+2012,BEL,Belgium,3,2.3,-0.7
+2016,BEL,Belgium,6,3.8,-2.2
+2012,BEN,Benin,0,0.0,0.0
+2016,BEN,Benin,0,0.0,0.0
+2012,BER,Bermuda,0,0.0,0.0
+2016,BER,Bermuda,0,0.0,0.0
+2012,BHU,Bhutan,0,0.0,0.0
+2016,BHU,Bhutan,0,0.0,0.0
+2012,BIH,Bosnia and Herzegovina,0,0.0,0.0
+2016,BIH,Bosnia and Herzegovina,0,0.0,0.0
+2012,BIZ,Belize,0,0.0,0.0
+2016,BIZ,Belize,0,0.0,0.0
+2012,BLR,Belarus,12,18.0,6.0
+2016,BLR,Belarus,9,13.0,4.0
+2012,BOL,Boliva,0,0.0,0.0
+2016,BOL,Boliva,0,0.0,0.0
+2012,BOT,Botswana,1,0.0,-1.0
+2016,BOT,Botswana,0,0.8,0.8
+2012,BRA,Brazil,17,17.0,0.0
+2016,BRA,Brazil,19,20.3,1.3
+2012,BRN,Bahrain,1,0.0,-1.0
+2016,BRN,Bahrain,2,0.9,-1.1
+2012,BRU,Brunei,0,0.3,0.3
+2016,BRU,Brunei,0,0.0,0.0
+2012,BUL,Bulgaria,2,5.8,3.8
+2016,BUL,Bulgaria,3,3.3,0.3
+2012,BUR,Burkina Faso,0,0.0,0.0
+2016,BUR,Burkina Faso,0,0.0,0.0
+2012,CAF,Central African Republic,0,0.0,0.0
+2016,CAF,Central African Republic,0,0.0,0.0
+2012,CAM,Cambodia,0,0.0,0.0
+2016,CAM,Cambodia,0,0.0,0.0
+2012,CAN,Canada,18,19.4,1.4
+2016,CAN,Canada,22,18.9,-3.1
+2012,CAY,Cayman Islands,0,0.0,0.0
+2016,CAY,Cayman Islands,0,0.0,0.0
+2012,CGO,Republic of Congo,0,0.0,0.0
+2016,CGO,Republic of Congo,0,0.0,0.0
+2012,CHA,Chad,0,0.0,0.0
+2016,CHA,Chad,0,0.0,0.0
+2012,CHI,Chile,0,0.9,0.9
+2016,CHI,Chile,0,0.5,0.5
+2012,CHN,China,88,93.9,5.9
+2016,CHN,China,70,89.1,19.1
+2012,CIV,Ivory Coast,0,0.1,0.1
+2016,CIV,Ivory Coast,2,0.1,-1.9
+2012,CMR,Cameroon,0,0.9,0.9
+2016,CMR,Cameroon,0,0.1,0.1
+2012,COD,Democratic Republic of the Congo,0,0.0,0.0
+2016,COD,Democratic Republic of the Congo,0,0.0,0.0
+2012,COK,Cook Islands,0,0.0,0.0
+2016,COK,Cook Islands,0,0.0,0.0
+2012,COL,Colombia,8,2.4,-5.6
+2016,COL,Colombia,8,8.5,0.5
+2012,COM,Comoros,0,0.0,0.0
+2016,COM,Comoros,0,0.0,0.0
+2012,CPV,Cape Verde,0,0.0,0.0
+2016,CPV,Cape Verde,0,0.0,0.0
+2012,CRC,Costa Rica,0,0.2,0.2
+2016,CRC,Costa Rica,0,0.0,0.0
+2012,CRO,Croatia,6,4.7,-1.3
+2016,CRO,Croatia,10,5.5,-4.5
+2012,CUB,Cuba,14,24.8,10.8
+2016,CUB,Cuba,11,12.7,1.7
+2012,CYP,Cyprus,1,0.0,-1.0
+2016,CYP,Cyprus,0,0.9,0.9
+2012,CZE,Czech Republic,10,6.1,-3.9
+2016,CZE,Czech Republic,10,9.8,-0.2
+2012,DEN,Denmark,9,7.1,-1.9
+2016,DEN,Denmark,15,10.2,-4.8
+2012,DJI,Djibouti,0,0.0,0.0
+2016,DJI,Djibouti,0,0.0,0.0
+2012,DMA,Dominica,0,0.0,0.0
+2016,DMA,Dominica,0,0.0,0.0
+2012,DOM,Dominican Republic,2,2.0,0.0
+2016,DOM,Dominican Republic,1,2.0,1.0
+2012,ECU,Ecuador,0,1.1,1.1
+2016,ECU,Ecuador,0,0.3,0.3
+2012,EGY,Egypt,2,1.4,-0.6
+2016,EGY,Egypt,3,2.6,-0.4
+2012,ERI,Eritrea,0,0.0,0.0
+2016,ERI,Eritrea,0,0.1,0.1
+2012,ESA,El Salvador,0,0.0,0.0
+2016,ESA,El Salvador,0,0.0,0.0
+2012,ESP,Spain,17,17.7,0.7
+2016,ESP,Spain,17,18.2,1.2
+2012,EST,Estonia,2,2.1,0.1
+2016,EST,Estonia,1,2.1,1.1
+2012,ETH,Ethiopia,7,7.3,0.3
+2016,ETH,Ethiopia,8,6.6,-1.4
+2012,FIJ,Fiji,0,0.0,0.0
+2016,FIJ,Fiji,1,0.1,-0.9
+2012,FIN,Finland,3,3.9,0.9
+2016,FIN,Finland,1,2.9,1.9
+2012,FRA,France,35,42.5,7.5
+2016,FRA,France,42,36.1,-5.9
+2012,FSM,Micronesia,0,0.0,0.0
+2016,FSM,Micronesia,0,0.0,0.0
+2012,GAB,Gabon,1,0.0,-1.0
+2016,GAB,Gabon,0,0.9,0.9
+2012,GAM,Gambia,0,0.0,0.0
+2016,GAM,Gambia,0,0.0,0.0
+2012,GBR,UK,65,60.2,-4.8
+2016,GBR,UK,67,63.0,-4.0
+2012,GBS,Guinea-Bissau,0,0.0,0.0
+2016,GBS,Guinea-Bissau,0,0.0,0.0
+2012,GEO,Georgia,7,5.9,-1.1
+2016,GEO,Georgia,7,6.6,-0.4
+2012,GEQ,Equatorial Guinea,0,0.0,0.0
+2016,GEQ,Equatorial Guinea,0,0.0,0.0
+2012,GER,Germany,44,39.7,-4.3
+2016,GER,Germany,42,43.2,1.2
+2012,GHA,Ghana,0,0.1,0.1
+2016,GHA,Ghana,0,0.0,0.0
+2012,GRE,Greece,2,4.0,2.0
+2016,GRE,Greece,6,3.0,-3.0
+2012,GRN,Grenada,1,0.1,-0.9
+2016,GRN,Grenada,1,0.8,-0.2
+2012,GUA,Guatemala,1,0.1,-0.9
+2016,GUA,Guatemala,0,0.8,0.8
+2012,GUI,Guinea,0,0.0,0.0
+2016,GUI,Guinea,0,0.0,0.0
+2012,GUM,Guam,0,0.0,0.0
+2016,GUM,Guam,0,0.0,0.0
+2012,GUY,Guyana,0,0.0,0.0
+2016,GUY,Guyana,0,0.0,0.0
+2012,HAI,Haiti,0,0.0,0.0
+2016,HAI,Haiti,0,0.0,0.0
+2012,HKG,China,1,0.1,-0.9
+2016,HKG,China,0,0.8,0.8
+2012,HON,Honduras,0,0.1,0.1
+2016,HON,Honduras,0,0.1,0.1
+2012,HUN,Hungary,18,10.5,-7.5
+2016,HUN,Hungary,15,17.8,2.8
+2012,INA,Indonesia,2,4.8,2.8
+2016,INA,Indonesia,3,2.4,-0.6
+2012,IND,India,6,3.2,-2.8
+2016,IND,India,2,5.6,3.6
+2012,IOA,Individual Olympic Athletes,0,0.4,0.4
+2016,IOA,Individual Olympic Athletes,2,0.2,-1.8
+2012,IRI,Iran,12,2.4,-9.6
+2016,IRI,Iran,8,10.7,2.7
+2012,IRL,Ireland,5,3.0,-2.0
+2016,IRL,Ireland,2,5.0,3.0
+2012,IRQ,Iraq,0,0.0,0.0
+2016,IRQ,Iraq,0,0.0,0.0
+2012,ISL,Iceland,0,1.1,1.1
+2016,ISL,Iceland,0,0.0,0.0
+2012,ISR,Israel,0,1.0,1.0
+2016,ISR,Israel,2,0.4,-1.6
+2012,ISV,"Virgin Islands, US",0,0.0,0.0
+2016,ISV,"Virgin Islands, US",0,0.0,0.0
+2012,ITA,Italy,28,27.3,-0.7
+2016,ITA,Italy,28,28.8,0.8
+2012,IVB,"Virgin Islands, British",0,0.0,0.0
+2016,IVB,"Virgin Islands, British",0,0.0,0.0
+2012,JAM,Jamaica,12,8.7,-3.3
+2016,JAM,Jamaica,11,11.0,0.0
+2012,JOR,Jordan,0,0.0,0.0
+2016,JOR,Jordan,1,0.1,-0.9
+2012,JPN,Japan,38,25.4,-12.6
+2016,JPN,Japan,41,37.8,-3.2
+2012,KAZ,Kazakhstan,13,12.6,-0.4
+2016,KAZ,Kazakhstan,18,12.7,-5.3
+2012,KEN,Kenya,11,14.7,3.7
+2016,KEN,Kenya,13,10.4,-2.6
+2012,KGZ,Kyrgyzstan,0,2.2,2.2
+2016,KGZ,Kyrgyzstan,0,0.2,0.2
+2012,KIR,Kiribati,0,0.0,0.0
+2016,KIR,Kiribati,0,0.0,0.0
+2012,KOR,South Korea,28,29.2,1.2
+2016,KOR,South Korea,21,28.0,7.0
+2012,KSA,Saudi Arabia,1,0.2,-0.8
+2016,KSA,Saudi Arabia,0,0.7,0.7
+2012,KUW,Kuwait,1,0.1,-0.9
+2012,LAO,Laos,0,0.0,0.0
+2016,LAO,Laos,0,0.0,0.0
+2012,LAT,Latvia,2,2.9,0.9
+2016,LAT,Latvia,0,1.9,1.9
+2012,LBA,Libya,0,0.0,0.0
+2016,LBA,Libya,0,0.0,0.0
+2012,LBR,Liberia,0,0.0,0.0
+2016,LBR,Liberia,0,0.0,0.0
+2012,LCA,Saint Lucia,0,0.0,0.0
+2016,LCA,Saint Lucia,0,0.0,0.0
+2012,LES,Lesotho,0,0.0,0.0
+2016,LES,Lesotho,0,0.0,0.0
+2012,LIB,Lebanon,0,0.0,0.0
+2016,LIB,Lebanon,0,0.0,0.0
+2012,LIE,Liechtenstein,0,0.0,0.0
+2016,LIE,Liechtenstein,0,0.0,0.0
+2012,LTU,Lithuania,5,5.0,0.0
+2016,LTU,Lithuania,4,5.8,1.8
+2012,LUX,Luxembourg,0,0.1,0.1
+2016,LUX,Luxembourg,0,0.1,0.1
+2012,MAD,Madagascar,0,0.0,0.0
+2016,MAD,Madagascar,0,0.0,0.0
+2012,MAR,Morocco,1,2.1,1.1
+2016,MAR,Morocco,1,1.2,0.2
+2012,MAS,Malaysia,2,1.0,-1.0
+2016,MAS,Malaysia,5,2.0,-3.0
+2012,MAW,Malawi,0,0.0,0.0
+2016,MAW,Malawi,0,0.0,0.0
+2012,MDA,Moldova,2,1.0,-1.0
+2016,MDA,Moldova,0,2.2,2.2
+2012,MDV,Maldives,0,0.0,0.0
+2016,MDV,Maldives,0,0.0,0.0
+2012,MEX,Mexico,7,3.2,-3.8
+2016,MEX,Mexico,5,6.7,1.7
+2012,MGL,Mongolia,5,3.6,-1.4
+2016,MGL,Mongolia,2,5.2,3.2
+2012,MHL,Marshall Islands,0,0.0,0.0
+2016,MHL,Marshall Islands,0,0.0,0.0
+2012,MKD,Macedonia,0,0.0,0.0
+2016,MKD,Macedonia,0,0.0,0.0
+2012,MLI,Mali,0,0.0,0.0
+2016,MLI,Mali,0,0.0,0.0
+2012,MLT,Malta,0,0.0,0.0
+2016,MLT,Malta,0,0.0,0.0
+2012,MNE,Montenegro,1,0.0,-1.0
+2016,MNE,Montenegro,0,1.0,1.0
+2012,MON,Monaco,0,0.0,0.0
+2016,MON,Monaco,0,0.0,0.0
+2012,MOZ,Mozambique,0,0.0,0.0
+2016,MOZ,Mozambique,0,0.0,0.0
+2012,MRI,Mauritius,0,0.9,0.9
+2016,MRI,Mauritius,0,0.0,0.0
+2012,MTN,Mauritania,0,0.0,0.0
+2016,MTN,Mauritania,0,0.0,0.0
+2012,MYA,Myanmar,0,0.0,0.0
+2016,MYA,Myanmar,0,0.0,0.0
+2012,NAM,Namibia,0,0.0,0.0
+2016,NAM,Namibia,0,0.1,0.1
+2012,NCA,Nicaragua,0,0.0,0.0
+2016,NCA,Nicaragua,0,0.0,0.0
+2012,NED,Netherlands,20,16.8,-3.2
+2016,NED,Netherlands,19,22.3,3.3
+2012,NEP,Nepal,0,0.0,0.0
+2016,NEP,Nepal,0,0.0,0.0
+2012,NGR,Nigeria,0,4.4,4.4
+2016,NGR,Nigeria,1,0.5,-0.5
+2012,NIG,Niger,0,0.0,0.0
+2016,NIG,Niger,1,0.0,-1.0
+2012,NOR,Norway,4,8.9,4.9
+2016,NOR,Norway,4,5.2,1.2
+2012,NRU,Nauru,0,0.3,0.3
+2016,NRU,Nauru,0,0.0,0.0
+2012,NZL,New Zealand,13,9.9,-3.1
+2016,NZL,New Zealand,18,13.4,-4.6
+2012,OMA,Oman,0,0.0,0.0
+2016,OMA,Oman,0,0.0,0.0
+2012,PAK,Pakistan,0,0.1,0.1
+2016,PAK,Pakistan,0,0.1,0.1
+2012,PAN,Panama,0,0.9,0.9
+2016,PAN,Panama,0,0.1,0.1
+2012,PAR,Paraguay,0,0.0,0.0
+2016,PAR,Paraguay,0,0.1,0.1
+2012,PER,Peru,0,0.1,0.1
+2016,PER,Peru,0,0.1,0.1
+2012,PHI,Philippines,0,0.1,0.1
+2016,PHI,Philippines,1,0.0,-1.0
+2012,PLE,Palestine,0,0.0,0.0
+2016,PLE,Palestine,0,0.0,0.0
+2012,PLW,Palau,0,0.0,0.0
+2016,PLW,Palau,0,0.0,0.0
+2012,PNG,Papua New Guinea,0,0.0,0.0
+2016,PNG,Papua New Guinea,0,0.0,0.0
+2012,POL,Poland,10,11.5,1.5
+2016,POL,Poland,11,10.3,-0.7
+2012,POR,Portugal,1,2.4,1.4
+2016,POR,Portugal,1,1.2,0.2
+2012,PRK,North Korea,6,6.6,0.6
+2016,PRK,North Korea,7,6.3,-0.7
+2012,PUR,Puerto Rico,2,0.0,-2.0
+2016,PUR,Puerto Rico,1,1.9,0.9
+2012,QAT,Qatar,2,0.0,-2.0
+2016,QAT,Qatar,1,2.1,1.1
+2012,ROU,Romania,9,7.5,-1.5
+2016,ROU,Romania,4,9.5,5.5
+2012,RSA,South Africa,6,1.3,-4.7
+2016,RSA,South Africa,10,6.0,-4.0
+2012,RUS,Russia,82,71.2,-10.8
+2016,RUS,Russia,56,80.0,24.0
+2012,RWA,Rwanda,0,0.0,0.0
+2016,RWA,Rwanda,0,0.0,0.0
+2012,SAM,Samoa,0,0.0,0.0
+2016,SAM,Samoa,0,0.0,0.0
+2012,SEN,Senegal,0,0.1,0.1
+2016,SEN,Senegal,0,0.0,0.0
+2012,SEY,Seychelles,0,0.1,0.1
+2016,SEY,Seychelles,0,0.0,0.0
+2012,SGP,SGP,2,1.1,-0.9
+2016,SGP,SGP,1,2.1,1.1
+2012,SKN,Saint Kitts,0,0.0,0.0
+2016,SKN,Saint Kitts,0,0.0,0.0
+2012,SLE,Sierra Leone,0,0.0,0.0
+2016,SLE,Sierra Leone,0,0.0,0.0
+2012,SLO,Slovenia,4,4.9,0.9
+2016,SLO,Slovenia,4,4.5,0.5
+2012,SMR,San Marino,0,0.0,0.0
+2016,SMR,San Marino,0,0.0,0.0
+2012,SOL,Solomon Islands,0,0.0,0.0
+2016,SOL,Solomon Islands,0,0.0,0.0
+2012,SOM,Somalia,0,0.0,0.0
+2016,SOM,Somalia,0,0.0,0.0
+2012,SRB,Serbia,4,2.8,-1.2
+2016,SRB,Serbia,8,4.8,-3.2
+2012,SRI,Sri Lanka,0,0.1,0.1
+2016,SRI,Sri Lanka,0,0.0,0.0
+2012,STP,Sao Tome and Principe,0,0.0,0.0
+2016,STP,Sao Tome and Principe,0,0.0,0.0
+2012,SUD,Sudan,0,0.8,0.8
+2016,SUD,Sudan,0,0.0,0.0
+2012,SUI,Switzerland,4,7.1,3.1
+2016,SUI,Switzerland,7,4.5,-2.5
+2012,SUR,Suriname,0,0.0,0.0
+2016,SUR,Suriname,0,0.0,0.0
+2012,SVK,Slovakia,4,6.7,2.7
+2016,SVK,Slovakia,4,4.3,0.3
+2012,SWE,Sweden,8,5.9,-2.1
+2016,SWE,Sweden,11,7.8,-3.2
+2012,SWZ,Swaziland,0,0.0,0.0
+2016,SWZ,Swaziland,0,0.0,0.0
+2012,SYR,Syria,0,0.0,0.0
+2016,SYR,Syria,0,0.0,0.0
+2012,TAN,Tanzania,0,0.1,0.1
+2016,TAN,Tanzania,0,0.0,0.0
+2012,TGA,Tonga,0,0.0,0.0
+2016,TGA,Tonga,0,0.0,0.0
+2012,THA,Thailand,3,4.2,1.2
+2016,THA,Thailand,6,3.1,-2.9
+2012,TJK,Tajikistan,1,1.8,0.8
+2016,TJK,Tajikistan,1,0.9,-0.1
+2012,TKM,Turkmenistan,0,0.0,0.0
+2016,TKM,Turkmenistan,0,0.0,0.0
+2012,TLS,Timor-Leste,0,0.3,0.3
+2016,TLS,Timor-Leste,0,0.0,0.0
+2012,TOG,Togo,0,0.8,0.8
+2016,TOG,Togo,0,0.0,0.0
+2012,TPE,Taiwan,2,4.0,2.0
+2016,TPE,Taiwan,3,2.2,-0.8
+2012,TTO,Trinidad,4,2.0,-2.0
+2016,TTO,Trinidad,1,3.5,2.5
+2012,TUN,Tunisia,3,1.2,-1.8
+2016,TUN,Tunisia,3,2.7,-0.3
+2012,TUR,Turkey,5,7.6,2.6
+2016,TUR,Turkey,8,5.8,-2.2
+2012,TUV,TUV,0,0.0,0.0
+2016,TUV,TUV,0,0.0,0.0
+2012,UAE,United Arab Emirates,0,0.1,0.1
+2016,UAE,United Arab Emirates,1,0.1,-0.9
+2012,UGA,Uganda,1,0.0,-1.0
+2016,UGA,Uganda,0,0.8,0.8
+2012,UKR,Ukraine,20,29.5,9.5
+2016,UKR,Ukraine,11,20.4,9.4
+2012,URU,Uruguay,0,0.1,0.1
+2016,URU,Uruguay,0,0.1,0.1
+2012,USA,USA,103,100.2,-2.8
+2016,USA,USA,121,95.8,-25.2
+2012,UZB,Uzbekistan,3,6.6,3.6
+2016,UZB,Uzbekistan,13,3.1,-9.9
+2012,VAN,Vanuatu,0,0.0,0.0
+2016,VAN,Vanuatu,0,0.0,0.0
+2012,VEN,Venezuela,1,1.2,0.2
+2016,VEN,Venezuela,3,1.0,-2.0
+2012,VIE,Vietnam,0,1.0,1.0
+2016,VIE,Vietnam,2,0.1,-1.9
+2012,VIN,Saint Vincent,0,0.0,0.0
+2016,VIN,Saint Vincent,0,0.0,0.0
+2012,YEM,Yemen,0,0.0,0.0
+2016,YEM,Yemen,0,0.0,0.0
+2012,ZAM,Zambia,0,0.0,0.0
+2016,ZAM,Zambia,0,0.0,0.0
+2012,ZIM,Zimbabwe,0,3.5,3.5
+2016,ZIM,Zimbabwe,0,1.4,1.4
