@@ -1,7 +1,7 @@
 import streamlit as st
+import joblib
 import pandas as pd
 import numpy as np
-import joblib
 from pathlib import Path
 
 # 1. Page configuration
